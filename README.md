@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on: Object Centric Process Mining for Blockchain Applications.
 - 🌱 Next topic to learn: Saleforce Integration.
