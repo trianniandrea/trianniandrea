@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on: Object Centric Process Mining for Blockchain Applications.
-- 🌱 Next topic to learn: Saleforce Integration.
+- 🌱 Next topic to learn: Kubernetes & Jenkins
 - 💬 Ask me about NLP and DeepL. (Private repos 👀)
 <!--
 **trianniandrea/trianniandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
