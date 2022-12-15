@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on: Object Centric Process Mining for Blockchain Applications.
-- 🌱 Next topic to learn: Kubernetes & Jenkins
+- 🌱 Next topic to learn: please, suggest one!
 - 💬 Ask me about NLP and DeepL. (Private repos 👀)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrea-trianni-915794243/)
 <!--
 **trianniandrea/trianniandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
